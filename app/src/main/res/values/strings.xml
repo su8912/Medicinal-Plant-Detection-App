@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMDETECT</string>
+    <string name="title_activity_home_page">home_page</string>
+    <string name="title_activity_activitysplash">Activitysplash</string>
+    <string name="confidences">Confidences:</string>
+
+</resources>
